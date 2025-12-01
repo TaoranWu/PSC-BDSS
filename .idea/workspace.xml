@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f9466d6-1431-456b-ad5c-a2064eac1216" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2xGCcX2zvpQFgvHakGNnatZXaSN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/__Mywork/PAC/PSC-BDSS-FM&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.debugger.dataview.coloredbydefault&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251130_085050" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251130_033911" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251130_014848" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\sis_robust_nested" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\sis_stochastic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\__Mywork\PAC\PSC-BDSS-FM\Benchmarks" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251129_015221" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251128_115937" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251128_123224" />
+      <recent name="D:\__Mywork\PAC\PCSIS_Stochastic\Benchmarks\exp\results_20251118_123030" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex5">
+    <configuration name="ex1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Benchmarks/RBC-I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Benchmarks/RBC-I/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Benchmarks/RBC-II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Benchmarks/RBC-II/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Benchmarks/SBC-III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Benchmarks/SBC-III/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Benchmarks/RBC-II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Benchmarks/RBC-II/ex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Benchmarks/SBC-III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Benchmarks/SBC-III/ex9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ex5" />
+      <item itemvalue="Python.ex1" />
+      <item itemvalue="Python.ex1 (1)" />
+      <item itemvalue="Python.ex1 (2)" />
+      <item itemvalue="Python.ex9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex5" />
+        <item itemvalue="Python.ex1 (1)" />
+        <item itemvalue="Python.ex1 (2)" />
+        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.ex9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f9466d6-1431-456b-ad5c-a2064eac1216" name="Changes" comment="" />
+      <created>1747555107714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747555107714</updated>
+      <workItem from="1747555117933" duration="3376000" />
+      <workItem from="1747619602676" duration="18213000" />
+      <workItem from="1747705872963" duration="1437000" />
+      <workItem from="1747807500205" duration="595000" />
+      <workItem from="1747878489858" duration="4114000" />
+      <workItem from="1747965746955" duration="8951000" />
+      <workItem from="1748223271094" duration="17305000" />
+      <workItem from="1748309430883" duration="2812000" />
+      <workItem from="1748351771989" duration="838000" />
+      <workItem from="1748396618825" duration="9991000" />
+      <workItem from="1748483126820" duration="11387000" />
+      <workItem from="1748592616021" duration="995000" />
+      <workItem from="1748915130882" duration="974000" />
+      <workItem from="1749089487468" duration="4378000" />
+      <workItem from="1749107497481" duration="9055000" />
+      <workItem from="1749175260111" duration="2980000" />
+      <workItem from="1749182703314" duration="6282000" />
+      <workItem from="1749450248405" duration="2563000" />
+      <workItem from="1749541099026" duration="2759000" />
+      <workItem from="1749552131334" duration="3969000" />
+      <workItem from="1749691672402" duration="4666000" />
+      <workItem from="1750053258467" duration="8659000" />
+      <workItem from="1750124434710" duration="4307000" />
+      <workItem from="1750212552861" duration="3110000" />
+      <workItem from="1750298771997" duration="8703000" />
+      <workItem from="1750383876491" duration="13491000" />
+      <workItem from="1750411289753" duration="1262000" />
+      <workItem from="1750482456957" duration="11462000" />
+      <workItem from="1750575469073" duration="1269000" />
+      <workItem from="1750642250172" duration="22676000" />
+      <workItem from="1750729996333" duration="12941000" />
+      <workItem from="1750813770734" duration="6420000" />
+      <workItem from="1750902179062" duration="3038000" />
+      <workItem from="1750921628729" duration="9214000" />
+      <workItem from="1750988187930" duration="10921000" />
+      <workItem from="1751247473542" duration="4290000" />
+      <workItem from="1751251806983" duration="1229000" />
+      <workItem from="1751263120417" duration="16338000" />
+      <workItem from="1751333820085" duration="8595000" />
+      <workItem from="1751419450832" duration="23390000" />
+      <workItem from="1751505836559" duration="19787000" />
+      <workItem from="1751594985613" duration="22566000" />
+      <workItem from="1751851800810" duration="33281000" />
+      <workItem from="1751937431331" duration="23164000" />
+      <workItem from="1751981697952" duration="3195000" />
+      <workItem from="1752040150045" duration="10687000" />
+      <workItem from="1752110697032" duration="9559000" />
+      <workItem from="1752157528089" duration="637000" />
+      <workItem from="1752200730521" duration="3669000" />
+      <workItem from="1752285412580" duration="12414000" />
+      <workItem from="1752646655795" duration="3393000" />
+      <workItem from="1752752403111" duration="2977000" />
+      <workItem from="1752802845988" duration="12582000" />
+      <workItem from="1753065591820" duration="4789000" />
+      <workItem from="1753155011210" duration="11317000" />
+      <workItem from="1753233986861" duration="21063000" />
+      <workItem from="1753281038160" duration="102000" />
+      <workItem from="1753322275156" duration="13762000" />
+      <workItem from="1753406206854" duration="10655000" />
+      <workItem from="1753494349748" duration="19941000" />
+      <workItem from="1753585714087" duration="205000" />
+      <workItem from="1753668436549" duration="348000" />
+      <workItem from="1753668892949" duration="4979000" />
+      <workItem from="1753774032981" duration="1798000" />
+      <workItem from="1754109603565" duration="1453000" />
+      <workItem from="1755483709386" duration="66000" />
+      <workItem from="1755485452265" duration="634000" />
+      <workItem from="1757662942304" duration="9000" />
+      <workItem from="1758012831104" duration="1159000" />
+      <workItem from="1758019149569" duration="8313000" />
+      <workItem from="1758112606929" duration="1433000" />
+      <workItem from="1758161594182" duration="1900000" />
+      <workItem from="1758163804683" duration="17180000" />
+      <workItem from="1758254350133" duration="1394000" />
+      <workItem from="1758256370846" duration="23134000" />
+      <workItem from="1758335747043" duration="8888000" />
+      <workItem from="1758506328485" duration="12819000" />
+      <workItem from="1759905589895" duration="2547000" />
+      <workItem from="1760010161610" duration="751000" />
+      <workItem from="1760581518163" duration="24000" />
+      <workItem from="1762869088142" duration="332000" />
+      <workItem from="1762911887580" duration="739000" />
+      <workItem from="1762913230499" duration="10821000" />
+      <workItem from="1762999089207" duration="13215000" />
+      <workItem from="1763083268450" duration="7673000" />
+      <workItem from="1763117220786" duration="5095000" />
+      <workItem from="1763179667748" duration="22882000" />
+      <workItem from="1763220177478" duration="1227000" />
+      <workItem from="1763259827778" duration="12415000" />
+      <workItem from="1763342986443" duration="10867000" />
+      <workItem from="1763429980190" duration="21375000" />
+      <workItem from="1763477428058" duration="363000" />
+      <workItem from="1763690740308" duration="7879000" />
+      <workItem from="1763792781466" duration="4592000" />
+      <workItem from="1763883438540" duration="1524000" />
+      <workItem from="1763962748310" duration="2651000" />
+      <workItem from="1764043846043" duration="8301000" />
+      <workItem from="1764161176369" duration="726000" />
+      <workItem from="1764299591692" duration="22346000" />
+      <workItem from="1764380583059" duration="18226000" />
+      <workItem from="1764466605543" duration="16965000" />
+      <workItem from="1764551971032" duration="595000" />
+      <workItem from="1764554579633" duration="3163000" />
+      <workItem from="1764558372249" duration="1230000" />
+      <workItem from="1764562739679" duration="8232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/sis_stochastic_without_lamda.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_template_handelman.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/model/csis_stochastic/model_pendulum_csis_st.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/utils/monte_carlo.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/SBC-III/three_rooms_stochastic.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/solver_coe_tau.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/SBC3.py</url>
+          <line>170</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/utils/monte_carlo.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/SBC-III/lorenz_stochastic.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/solver_xi.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/solver_lamda.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/model/csis_stochastic/env_drone.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/csis_stochastic/pendulum.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/exp/lotka_test.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/exp/lotka_2.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/model/stochastic/model_single_int_stochastic.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/SBC-III/vanderpol_stochastic.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/SBC-III/ex2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/RBC-II/ex2.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/RBC2.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/exp/lotka_prob.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/exp/vinc_prob.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/RBC2.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_l.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/utils/sim_traj.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Benchmarks/exp/vinc_prob.py</url>
+          <line>185</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/SBC3.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/SBC3.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/SBC3.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/template.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/RBC2.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_mountain.coverage" NAME="plot_mountain Coverage Results" MODIFIED="1752752495325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/mountain" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$n2_stochastic_coe_tau.coverage" NAME="n2_stochastic_coe_tau Coverage Results" MODIFIED="1747624498329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_temperature.coverage" NAME="plot_temperature Coverage Results" MODIFIED="1752752598652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/temperature" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$mountain.coverage" NAME="mountain Coverage Results" MODIFIED="1751858333669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_robust_single.coverage" NAME="n2_robust_single Coverage Results" MODIFIED="1764055374972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_stochastic__1_.coverage" NAME="lotka_stochastic (1) Coverage Results" MODIFIED="1750687835768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_stochastic_handelman.coverage" NAME="lotka_stochastic_handelman Coverage Results" MODIFIED="1749561146176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1748267821119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ppo_pendulum__1_.coverage" NAME="ppo_pendulum (1) Coverage Results" MODIFIED="1751879894584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$vanderpol_stochastic_coe_tau.coverage" NAME="vanderpol_stochastic_coe_tau Coverage Results" MODIFIED="1747647495608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$sank_rbc_nested.coverage" NAME="sank_rbc_nested Coverage Results" MODIFIED="1764416851359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex4__1_.coverage" NAME="ex4 (1) Coverage Results" MODIFIED="1764557003484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-II" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test.coverage" NAME="test Coverage Results" MODIFIED="1753270332602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ddpg_temperature.coverage" NAME="ddpg_temperature Coverage Results" MODIFIED="1751982935021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1764557544422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/SBC-III" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$evaluate_pendulum.coverage" NAME="evaluate_pendulum Coverage Results" MODIFIED="1758258355571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/pendulum" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex9__1_.coverage" NAME="ex9 (1) Coverage Results" MODIFIED="1764557050807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-I" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_robust_single__1_.coverage" NAME="n2_robust_single (1) Coverage Results" MODIFIED="1763110500342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$4dlinear_robust_single.coverage" NAME="4dlinear_robust_single Coverage Results" MODIFIED="1764052822967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$evaluate_mountain.coverage" NAME="evaluate_mountain Coverage Results" MODIFIED="1753499153078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/mountain" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$pendulum_csis.coverage" NAME="pendulum_csis Coverage Results" MODIFIED="1747969551078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_deterministic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$arch_stochastic.coverage" NAME="arch_stochastic Coverage Results" MODIFIED="1763017207942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$stabilization_robust.coverage" NAME="stabilization_robust Coverage Results" MODIFIED="1764052767093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$single_int_stochastic.coverage" NAME="single_int_stochastic Coverage Results" MODIFIED="1753065723915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$pendulum_sbc.coverage" NAME="pendulum_sbc Coverage Results" MODIFIED="1764053115477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_robust_nested.coverage" NAME="n2_robust_nested Coverage Results" MODIFIED="1764416266659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_prob.coverage" NAME="lotka_prob Coverage Results" MODIFIED="1752311058416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lorenz7d_rbc_nested.coverage" NAME="lorenz7d_rbc_nested Coverage Results" MODIFIED="1764413524238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lotka_stochastic.coverage" NAME="lotka_stochastic Coverage Results" MODIFIED="1764492582302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$stabilization_sbc.coverage" NAME="stabilization_sbc Coverage Results" MODIFIED="1764496805674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$4dlinear_sbc.coverage" NAME="4dlinear_sbc Coverage Results" MODIFIED="1764053007305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$data_proc__1_.coverage" NAME="data_proc (1) Coverage Results" MODIFIED="1764478322876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp/results_20251130_033911" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_iter.coverage" NAME="plot_iter Coverage Results" MODIFIED="1753585737803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ddpg_pendulum.coverage" NAME="ddpg_pendulum Coverage Results" MODIFIED="1751894007555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lotka_robust_single.coverage" NAME="lotka_robust_single Coverage Results" MODIFIED="1764417982486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_manager.coverage" NAME="plot_manager Coverage Results" MODIFIED="1752290248274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$csis_stochastic.coverage" NAME="csis_stochastic Coverage Results" MODIFIED="1749111585980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$jet_stochastic.coverage" NAME="jet_stochastic Coverage Results" MODIFIED="1758267091730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$plot_control.coverage" NAME="plot_control Coverage Results" MODIFIED="1758278513876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1750403297453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test_n2_robust_nested.coverage" NAME="test_n2_robust_nested Coverage Results" MODIFIED="1764484565294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$evaluate_temperature.coverage" NAME="evaluate_temperature Coverage Results" MODIFIED="1758273713770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/temperature" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$exp1.coverage" NAME="exp1 Coverage Results" MODIFIED="1763260018958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$4dlinear_rbc_nested.coverage" NAME="4dlinear_rbc_nested Coverage Results" MODIFIED="1764052494527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$trpo_pendulum.coverage" NAME="trpo_pendulum Coverage Results" MODIFIED="1751875337424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$three_rooms_stochastic.coverage" NAME="three_rooms_stochastic Coverage Results" MODIFIED="1750490203720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$exp_mtkl.coverage" NAME="exp_mtkl Coverage Results" MODIFIED="1763259939824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lotka_prob.coverage" NAME="lotka_prob Coverage Results" MODIFIED="1764320611942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_robust_nested_sample_num.coverage" NAME="n2_robust_nested_sample_num Coverage Results" MODIFIED="1764417327702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test_lorenz_stochastic_7d.coverage" NAME="test_lorenz_stochastic_7d Coverage Results" MODIFIED="1764418344304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex9.coverage" NAME="ex9 Coverage Results" MODIFIED="1764557515444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/SBC-III" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$arch_rbc_single.coverage" NAME="arch_rbc_single Coverage Results" MODIFIED="1764052749096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$model_lotka_stochastic.coverage" NAME="model_lotka_stochastic Coverage Results" MODIFIED="1751379482076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis/model/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ppo_moutain.coverage" NAME="ppo_moutain Coverage Results" MODIFIED="1751862024910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ppo_temperature.coverage" NAME="ppo_temperature Coverage Results" MODIFIED="1751939218535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_stochastic_coe_tau.coverage" NAME="lotka_stochastic_coe_tau Coverage Results" MODIFIED="1750055039619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$exp_lotka_mtkl.coverage" NAME="exp_lotka_mtkl Coverage Results" MODIFIED="1750385616914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$vanderpol_stochastic.coverage" NAME="vanderpol_stochastic Coverage Results" MODIFIED="1758164464273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex5__1_.coverage" NAME="ex5 (1) Coverage Results" MODIFIED="1764557017701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-II" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_stochastic.coverage" NAME="lotka_stochastic Coverage Results" MODIFIED="1753066319764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$evaluate_drone__1_.coverage" NAME="evaluate_drone (1) Coverage Results" MODIFIED="1753356164397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller_old/drone" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$plot_para.coverage" NAME="plot_para Coverage Results" MODIFIED="1764495650497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_control.coverage" NAME="plot_control Coverage Results" MODIFIED="1753686690479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$arch_robust__1_.coverage" NAME="arch_robust (1) Coverage Results" MODIFIED="1763023921962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex3__1_.coverage" NAME="ex3 (1) Coverage Results" MODIFIED="1764556994885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-II" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lotka_test.coverage" NAME="lotka_test Coverage Results" MODIFIED="1764320252532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lorenz6d_rbc_nested.coverage" NAME="lorenz6d_rbc_nested Coverage Results" MODIFIED="1764311002030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$data_proc__2_.coverage" NAME="data_proc (2) Coverage Results" MODIFIED="1764479047177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp/results_vinc_nested_alpha1_l" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$arch_stochastic.coverage" NAME="arch_stochastic Coverage Results" MODIFIED="1752804050808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex1__1_.coverage" NAME="ex1 (1) Coverage Results" MODIFIED="1764570944035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-I" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$sac_pendulum__1_.coverage" NAME="sac_pendulum (1) Coverage Results" MODIFIED="1751890097874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$exp_mtkl.coverage" NAME="exp_mtkl Coverage Results" MODIFIED="1751533844738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$arch_robust.coverage" NAME="arch_robust Coverage Results" MODIFIED="1763023587301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test_lotka_stochastic.coverage" NAME="test_lotka_stochastic Coverage Results" MODIFIED="1764414663319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1751872895729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$drone.coverage" NAME="drone Coverage Results" MODIFIED="1751620976883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$evaluate_pendulum.coverage" NAME="evaluate_pendulum Coverage Results" MODIFIED="1753497997495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/pendulum" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1764557433168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/SBC-III" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$jet_stochastic.coverage" NAME="jet_stochastic Coverage Results" MODIFIED="1751270373786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test_template_bernstein.coverage" NAME="test_template_bernstein Coverage Results" MODIFIED="1758510630799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$sis_robust.coverage" NAME="sis_robust Coverage Results" MODIFIED="1763023918736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$exp1.coverage" NAME="exp1 Coverage Results" MODIFIED="1750057285762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$n3_robust.coverage" NAME="n3_robust Coverage Results" MODIFIED="1751433494630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ppo_drone.coverage" NAME="ppo_drone Coverage Results" MODIFIED="1753079861875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$stabilization_robust.coverage" NAME="stabilization_robust Coverage Results" MODIFIED="1751462444341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_drone.coverage" NAME="plot_drone Coverage Results" MODIFIED="1752752662723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/drone" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lorenz_stochastic.coverage" NAME="lorenz_stochastic Coverage Results" MODIFIED="1753539629274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$data_proc.coverage" NAME="data_proc Coverage Results" MODIFIED="1764495064972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp/results_20251130_085050" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$evaluate_drone.coverage" NAME="evaluate_drone Coverage Results" MODIFIED="1753527261993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/drone" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lorenz_stochastic_6d.coverage" NAME="lorenz_stochastic_6d Coverage Results" MODIFIED="1764304235808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$vanderpol_stochastic.coverage" NAME="vanderpol_stochastic Coverage Results" MODIFIED="1751290615293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_pendulum.coverage" NAME="plot_pendulum Coverage Results" MODIFIED="1752752630363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/pendulum" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$vinc_prob.coverage" NAME="vinc_prob Coverage Results" MODIFIED="1764470119839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$example_1_.coverage" NAME="example(1) Coverage Results" MODIFIED="1763364454449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/xwechat_files/wxid_g1m0sjjl3raq22_611c/msg/file/2025-11" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$pendulum_rbc_nested.coverage" NAME="pendulum_rbc_nested Coverage Results" MODIFIED="1764311947005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_2.coverage" NAME="lotka_2 Coverage Results" MODIFIED="1752310867178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_robust.coverage" NAME="n2_robust Coverage Results" MODIFIED="1763025390539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test_template_output.coverage" NAME="test_template_output Coverage Results" MODIFIED="1749091538186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$exp_mtkl__1_.coverage" NAME="exp_mtkl (1) Coverage Results" MODIFIED="1750396439481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$pendulum.coverage" NAME="pendulum Coverage Results" MODIFIED="1752227586404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$6d_rbc_nested.coverage" NAME="6d_rbc_nested Coverage Results" MODIFIED="1764052594781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$arch_robust.coverage" NAME="arch_robust Coverage Results" MODIFIED="1751523754430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$evaluate_temperature.coverage" NAME="evaluate_temperature Coverage Results" MODIFIED="1753359464562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/temperature" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_stochastic_lamda.coverage" NAME="lotka_stochastic_lamda Coverage Results" MODIFIED="1750665666595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$evaluate_pendulum__1_.coverage" NAME="evaluate_pendulum (1) Coverage Results" MODIFIED="1753342056167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller_old/pendulum" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test_l.coverage" NAME="test_l Coverage Results" MODIFIED="1764413684428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$6d_sbc.coverage" NAME="6d_sbc Coverage Results" MODIFIED="1764053023624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$sank_sbc.coverage" NAME="sank_sbc Coverage Results" MODIFIED="1764304136023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1764579490849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-II" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ex_plot.coverage" NAME="ex_plot Coverage Results" MODIFIED="1751511285209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis/utils" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$plot_para.coverage" NAME="plot_para Coverage Results" MODIFIED="1752157803181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test_template.coverage" NAME="test_template Coverage Results" MODIFIED="1748244846475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_stochastic.coverage" NAME="n2_stochastic Coverage Results" MODIFIED="1764425763382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test.coverage" NAME="test Coverage Results" MODIFIED="1763693737081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$evaluate_drone.coverage" NAME="evaluate_drone Coverage Results" MODIFIED="1758265414241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/drone" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_test.coverage" NAME="lotka_test Coverage Results" MODIFIED="1752308318100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1764557410355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/SBC-III" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex1__2_.coverage" NAME="ex1 (2) Coverage Results" MODIFIED="1764557703189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/RBC-II" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$plot_manager.coverage" NAME="plot_manager Coverage Results" MODIFIED="1763796450304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$single_int_robust.coverage" NAME="single_int_robust Coverage Results" MODIFIED="1751524543107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$n2_stochastic.coverage" NAME="n2_stochastic Coverage Results" MODIFIED="1753065865744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$jet_stochastic_coe_tau.coverage" NAME="jet_stochastic_coe_tau Coverage Results" MODIFIED="1750663827234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PSC_BDSS_FM$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1764557482583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/SBC-III" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$evaluate_mountain.coverage" NAME="evaluate_mountain Coverage Results" MODIFIED="1758273592366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/controller/mountain" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$plot_para_rbc.coverage" NAME="plot_para_rbc Coverage Results" MODIFIED="1764479111096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/exp" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test_template_bernstein.coverage" NAME="test_template_bernstein Coverage Results" MODIFIED="1751431406458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$arch_robust_nested__1_.coverage" NAME="arch_robust_nested (1) Coverage Results" MODIFIED="1763024487203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ppo_pendulum.coverage" NAME="ppo_pendulum Coverage Results" MODIFIED="1751874646811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$example.coverage" NAME="example Coverage Results" MODIFIED="1763363940976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/xwechat_files/wxid_g1m0sjjl3raq22_611c/msg/file/2025-11" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1764467174967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$arch_rbc_nested.coverage" NAME="arch_rbc_nested Coverage Results" MODIFIED="1764052394264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$n2_robust_single_sample_num.coverage" NAME="n2_robust_single_sample_num Coverage Results" MODIFIED="1764417455531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_single" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_stochastic_chunk.coverage" NAME="lotka_stochastic_chunk Coverage Results" MODIFIED="1750056720579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$lotka_robust.coverage" NAME="lotka_robust Coverage Results" MODIFIED="1751434772765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$test_template_handelman.coverage" NAME="test_template_handelman Coverage Results" MODIFIED="1751431718286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$ddpg_drone.coverage" NAME="ddpg_drone Coverage Results" MODIFIED="1751943020850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic/baselines" />
+    <SUITE FILE_PATH="coverage/PCSIS_NEW$cartpole.coverage" NAME="cartpole Coverage Results" MODIFIED="1751606521281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/csis_stochastic" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$lotka_robust.coverage" NAME="lotka_robust Coverage Results" MODIFIED="1764316132824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Benchmarks/sis_robust_nested" />
+    <SUITE FILE_PATH="coverage/PCSIS_Stochastic$ex_plot.coverage" NAME="ex_plot Coverage Results" MODIFIED="1764479103006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcsis/utils" />
+  </component>
+</project>

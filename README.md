@@ -36,7 +36,9 @@ The tool is designed to be easily extensible to new systems. Additional system m
 
 
 
+# Case 2 Video in the CARLA Simulator
 
+The video below demonstrates the application of our method in the CARLA simulator, corresponding to Case 2: Car Following in the paper:
 
-
+https://github.com/user-attachments/assets/de418eda-95cd-4e8c-86cd-0a085d482d98
 
